@@ -20,7 +20,7 @@ CI_ENVIRONMENT = production
 # APP
 #--------------------------------------------------------------------
 
-# app.baseURL = 'https://localhost/lab3/ci4/public'
+# app.baseURL = http://localhost/htdocs/webprogmi221/lab3/ci4/public/'
 # If you have trouble with `.`, you could also use `_`.
 # app_baseURL = ''
 # app.forceGlobalSecureRequests = false
