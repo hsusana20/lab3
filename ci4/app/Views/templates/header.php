@@ -1,8 +1,9 @@
-<!doctype html>
-<html>
-<head>
-    <title>CodeIgniter Tutorial</title>
-</head>
-<body>
+<!DOCTYPE html>
+<html lang="en">
 
-    <h1><?= esc($title) ?></h1>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Heiro Usana</title>
+
+

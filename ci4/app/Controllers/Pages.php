@@ -21,5 +21,6 @@ class Pages extends BaseController
         return view('templates/header', $data)
             . view('pages/' . $page)
             . view('templates/footer');
+           
     }
 }

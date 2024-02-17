@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com/css?family=Sofia&effect=fire');
+
+body {
+  background-image: url("../images/bg.gif");
+  background-size: cover;
+}
+
+.logo {
+  width:150px;
+  height:150px;
+}
+
+header {
+     padding: 10px;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+    }
+
+nav {
+   display: flex;
+  }
+nav a {
+    color: skyblue;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 190px;
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+  }
+
+nav a:hover {
+      background-color: #555;
+    }
+  
+
+#hg1{
+    border-style:inset;
+    border-color: black;
+  color: skyblue;
+  border-width: 10px;
+  text-align: center;
+  font-style: oblique;
+  font-family: "Sofia", sans-serif; 
+  }
+  
+#heading2 {
+    text-align: left;
+  font-size: 30px;
+  font-style: oblique;
+  margin-top: 0px;
+  margin-left: 0px;
+  border: 1px double black;
+  background: white;
+  
+  }
+  
+#img1 {
+     margin-left: 0; 
+     width: 250px;
+   border: 5px double black;
+  }
+
+
+  
+#parag2 {
+   color: skyblue;
+   text-align: center;
+   margin-top: 0;
+  }
+  
+div {
+   float: left;
+   padding: 15px;
+   margin-left: 50px;
+   
+  }
+  
+#div1 {
+   color: skyblue;
+   font-size: 16px;
+  }
+  
+#div2 {
+    color: skyblue;
+    font-size: 16px;
+  }
+  
+#div3 {
+    color: skyblue;
+    font-size: 16px;
+  }
+  
+#div4 {
+    color: skyblue;
+    font-size: 16px;
+  }
+  
+#div5 {
+    background: white;
+    border:5px double black;
+    width: 300px;
+    font-size: 19px;
+  margin-left: 350px;
+  margin-top: 25px;
+  }
+
+#div6 {
+    background: white;
+    border:5px double black;
+    width: 300px;
+    font-size: 19px;
+  margin-left: 300px;
+  margin-top: 25px;
+  }
+  
+#divone {
+    background: white;
+    border:5px double black;
+    width: 300px;
+    font-size: 19px;
+  margin-left: 300px;
+ }
+ 
+#divtwo {
+    background: white;
+    border:5px double black;
+    width: 300px;
+    font-size: 19px;
+  margin-left: 100px; 
+ }
+
+#divtree {
+    background: white;
+    border:5px double black;
+    width: 300px;
+    font-size: 19px;
+  margin-left: 100px;
+ }
+ 
+#divfour {
+    background: white;
+    border:5px double black;
+    width: 300px;
+  margin-left: 100px;
+
+  }
+  
+#divfive {
+    background: white;
+    border:5px double black;
+    width: 300px;
+  margin-left: 100px;
+ }
+ 
+#divsix {
+    background: white;
+    border:5px double black;
+    width: 300px;
+  margin-left: 100px;
+  }
+
+#divOne {
+    background: white;
+    border:5px double black;
+    width: 300px;
+  margin-left: 100px;
+  }
+ 
+#divTwo {
+    background: white;
+    border:5px double black;
+    width: 300px;
+  margin-left: 650px;
+  margin-top: 50px;
+ }
+
+
+ 
+  
+#parag3 {
+   border:5px double white;
+   width: 500px;
+   font-size: 19px;
+  }
+     
+#head1 {
+  font-size: 30px;
+  font-style: oblique;
+  margin-top: 180px;
+  margin-left: 0px;
+  border: 1px double black;
+  background: white;
+  
+  }
+
+ #head2 {
+    text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+  margin-top: 350px;
+  border: 1px double black;
+  background: white;
+  }
+
+#parag4 {
+  color: skyblue;
+  text-align: center;
+  }
+  
+#head3 {
+    text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+  margin-top: 400px;
+  border: 1px double black;
+  background: white;
+  }
+
+  
+#demo {
+ color: skyblue;
+   }
+  
+#switch {
+   color: skyblue;
+   font-size: 16px;
+   right: 0;
+  }
+#header1 {
+  width: 300px;
+  }
+#btnb {
+  float: right;
+  margin-right; 10px;
+}  
