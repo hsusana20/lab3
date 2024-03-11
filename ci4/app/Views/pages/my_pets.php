@@ -8,7 +8,7 @@ $script = [
 
 echo script_tag($script);
 ?>
-
+<link href="https://localhost:8080/css/my_pets.css" rel="stylesheet" type="text/css"><script defer scr="https://localhost:8080/js/my_pets.js"></script>
 <header>
    <img src="images/dog.gif" alt="cute" class="logo"> 
 <nav>
