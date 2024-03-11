@@ -1,5 +1,5 @@
 <link href="https://localhost:8080/css/about.css" rel="stylesheet" type="text/css">
-<script defer scr="https://localhost:8080/js/about.js"></script>
+<script defer src="https://localhost:8080/js/about.js"></script>
 <header>
    <img src="images/bruno.gif" alt="mm" class="logo"> 
 <nav>

@@ -1,5 +1,5 @@
 <link href="https://localhost:8080/css/create.css" rel="stylesheet" type="text/css">
-<script defer scr="https://localhost:8080/js/create.js"></script>
+<script defer src="https://localhost:8080/js/create.js"></script>
 
 <header>
    <img src="../images/lesly.gif" alt="mm" class="logo"> 
