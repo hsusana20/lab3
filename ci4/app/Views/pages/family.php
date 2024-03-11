@@ -1,14 +1,5 @@
-<?php
-echo link_tag('css/family.css');
-
-$script = [
-   'defer' => null,
-    'src' => 'js/family.js',
-];
-
-echo script_tag($script);
-?>
-<link href="https://localhost:8080/css/family.css" rel="stylesheet" type="text/css"><script defer scr="https://localhost:8080/js/family.js"></script>
+<link href="https://localhost:8080/css/family.css" rel="stylesheet" type="text/css">
+<script defer scr="https://localhost:8080/js/family.js"></script>
 <header>
    <img src="images/giphy.gif" alt="mlbb" class = "logo" > 
 <nav>
