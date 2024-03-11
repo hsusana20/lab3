@@ -16,7 +16,7 @@ echo script_tag($script);
    <a href="about">About Me</a>
    <a href="family">My Family</a>
    <a href="my_pets">My Pets</a>
-   <a href="forms">Forms</a>
+   <a href="guests">Forms</a>
 </nav>
 </header>
 

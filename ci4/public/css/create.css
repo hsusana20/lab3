@@ -55,7 +55,7 @@ nav a:hover {
   background-color: black;
 }
 
-#h2 {
+#h3 {
   color: white;
   font-size: 45px;
   font-family: "Sofia", sans-serif;
@@ -65,4 +65,9 @@ nav a:hover {
 #p1 {
   text-align: center;
   font-size: 19px;
+}
+
+#p2 {
+  text-align: center;
+  color: white;
 }
