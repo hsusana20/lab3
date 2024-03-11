@@ -1,0 +1,8 @@
+body {
+  background-image: url("../images/bg.gif");
+  background-size: cover;
+}
+
+#p1 {
+  color: white;
+}
