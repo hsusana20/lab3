@@ -1,5 +1,17 @@
-<link href="https://localhost:8080/css/about.css" rel="stylesheet" type="text/css">
-<script defer src="https://localhost:8080/js/about.js"></script>
+<?php
+echo link_tag('css/about.css');
+
+$script = [
+   'defer' => null,
+    'src' => 'js/about.js',
+];
+
+echo script_tag($script);
+?>
+
+//<link href="https://localhost:8080/css/about.css" rel="stylesheet" type="text/css">
+//<script defer src="https://localhost:8080/js/about.js"></script>
+
 <header>
    <img src="images/bruno.gif" alt="mm" class="logo"> 
 <nav>

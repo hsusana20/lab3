@@ -1,5 +1,17 @@
-<link href="https://localhost:8080/css/create.css" rel="stylesheet" type="text/css">
-<script defer src="https://localhost:8080/js/create.js"></script>
+<?php
+echo link_tag('css/create.css');
+
+$script = [
+   'defer' => null,
+    'src' => 'js/create.js',
+];
+
+echo script_tag($script);
+?>
+
+
+//<link href="https://localhost:8080/css/create.css" rel="stylesheet" type="text/css">
+//<script defer src="https://localhost:8080/js/create.js"></script>
 
 <header>
    <img src="../images/lesly.gif" alt="mm" class="logo"> 

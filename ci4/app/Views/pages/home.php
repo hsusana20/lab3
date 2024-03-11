@@ -1,5 +1,19 @@
-<link href="https://localhost:8080/css/home.css" rel="stylesheet" type="text/css">
-<script defer src="https://localhost:8080/js/home.js"></script>
+<?php
+echo link_tag('css/home.css');
+
+$script = [
+   'defer' => null,
+    'src' => 'js/home.js',
+];
+
+echo script_tag($script);
+?>
+
+
+
+//<link href="https://localhost:8080/css/home.css" rel="stylesheet" type="text/css">
+//<script defer src="https://localhost:8080/js/home.js"></script>
+
 <header>
    <img src="images/ling.gif" alt="ling" class = "logo" > 
 <nav>
