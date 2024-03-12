@@ -1,9 +1,6 @@
 <?php
 echo link_tag('css/create.css');
 
-
-
-echo script_tag($script);
 ?>
 
 
