@@ -6,8 +6,8 @@ use CodeIgniter\Model;
 
 class GuestsModel extends Model
 {
-    protected $table = 'myguests';
-    //protected $table = 'hsusana_guests';
+    //protected $table = 'myguests';
+    protected $table = 'hsusana_guests';
     protected $allowedFields = ['name', 'email', 'website', 'comment', 'gender'];
 
 
