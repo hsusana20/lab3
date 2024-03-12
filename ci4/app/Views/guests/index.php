@@ -8,8 +8,11 @@
 
         <div class="main">
             <?= esc($guests_item['email']) ?>
+            <br>
             <?= esc($guests_item['website']) ?>
+            <br>
             <?= esc($guests_item['comment']) ?>
+            <br>
             <?= esc($guests_item['gender']) ?>
         </div>
         <p><a href="./guests/<?= esc($guests_item['email'], 'url') ?>">View Guest detail</a></p>
