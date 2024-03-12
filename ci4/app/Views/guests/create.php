@@ -64,8 +64,9 @@ echo script_tag($script);
     <br>
 
     <input type="submit" name="submit" value="New Guest">
-</div>
+
 
 
 </form>
+</div>
 
