@@ -29,10 +29,10 @@ echo link_tag('css/create.css');
 </div>
 
 <h2><?= isset($name) ?></h2>
-
+<div id="error">
 <?= session()->getFlashdata('error') ?>
 <?= validation_list_errors() ?>
-
+</div>
 <form action="<?php echo site_url('guests'); ?>" method="post">
     <?= csrf_field() ?>
 
